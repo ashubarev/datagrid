@@ -1,2 +1,2 @@
 # datagrid
-Datagrid example
+Simple Datagrid example
